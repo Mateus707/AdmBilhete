@@ -1,0 +1,13 @@
+.fundo{
+    background-color: #ff0000!important;
+}
+.btnCss{
+    color: white!important;
+    font-weight: bold!important;
+}
+.form-control{
+    border: 1px solid black!important;
+}
+.form-control:focus{
+    outline: none!important;
+}
