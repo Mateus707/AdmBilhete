@@ -19,7 +19,7 @@
                         <label for="senha" class="form-label">Senha</label>
                         <input type="password" name="password" class="form-control" id="senha" required>
                         <input type="checkbox" name="checkbox" id="checkbox">
-                        <label for="checkbox" class="mb-3 mt-3" >Lembre de mim</label>
+                        <label for="checkbox" class="mb-3 mt-3" >Lembre de mim rs</label>
                         <input type="submit" class="fundo w-100 btn btnCss" value="Enviar">
 
                     </form>
